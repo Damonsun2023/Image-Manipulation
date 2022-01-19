@@ -10,7 +10,7 @@ The skills this project focused on were:
 My project exhibits
 
 - [ ] mastery of
-- [ ] proficiency with
+- [x] proficiency in
 - [ ] competency in
 - [ ] difficulty with
 - [ ] little understanding of
@@ -24,12 +24,10 @@ Put an 'X' inside the square brackets next to the above option that most closely
 
 This project represents
 
-- [ ] a great deal of
+- [x] a great deal of
 - [ ] some
 - [ ] very little
-- [ ] no
-
-growth for me as a programmer and computer scientist. 
+- [ ] no growth for me as a programmer and computer scientist. 
 
 Put an 'X' inside the square brackets next to the above option that most closely applies.
 
@@ -37,10 +35,10 @@ Put an 'X' inside the square brackets next to the above option that most closely
 
 For each of the following, put an 'X' inside the square brackets if it applies.
 
-- [ ] I understood what I was supposed to do for this project.
-- [ ] I understood the language elements I was meant to use for this project. 
-- [ ] I can see how each of the six things (concepts) could be used on tihs project.  
-- [ ] My code is easy for *anyone* to read. 
+- [x] I understood what I was supposed to do for this project.
+- [x] I understood the language elements I was meant to use for this project. 
+- [x] I can see how each of the six things (concepts) could be used on tihs project.  
+- [x] My code is easy for *anyone* to read. 
 
 ## Habits
 
@@ -49,14 +47,14 @@ For each of the following, put an 'X' inside the square brackets if it applies.
 For each of the following, put an 'X' inside the square brackets if it applies.
 
 - [ ] I demonstrate consideration of the potential users of my project. 
-- [ ] My project is visually coherent.
-- [ ] My project was developed thoughtfully.
-- [ ] I envision this project as being something beyond an academic exercise. 
+- [x] My project is visually coherent.
+- [x] My project was developed thoughtfully.
+- [x] I envision this project as being something beyond an academic exercise. 
 
 ### Diligence (HiD)
 
 I implemented the requirements the requirement of this project 
-- [ ] fully
+- [x] fully
 - [ ] mostly
 - [ ] somewhat
 - [ ] kind of
@@ -68,27 +66,27 @@ Put an 'X' inside the square brackets next to the above option that most closely
 ### Development (CiA)
 
 For each of the following, put an 'X' inside the square brackets if it applies. 
-- [ ] I developed my project in concert with peers
+- [x] I developed my project in concert with peers
 - [ ] I developed my project in concert with partners
 - [ ] I developed my project in concert with (theoretical) users
 
 ### Determination (HiD)
 
 For each of the following, put an 'X' inside the square brackets if it applies.
-- [ ] I revised my code throughout the development process. 
-- [ ] I employed effective debugging techniques. 
-- [ ] I used my resources (notes, previous projects, code examples, documentation, etc.). 
-- [ ] I saught help. 
-- [ ] I tried to get myself unstuck first.
-- [ ] I adjusted the scope of my work appropriately.  
+- [x] I revised my code throughout the development process. 
+- [x] I employed effective debugging techniques. 
+- [x] I used my resources (notes, previous projects, code examples, documentation, etc.). 
+- [x] I saught help. 
+- [x] I tried to get myself unstuck first.
+- [x] I adjusted the scope of my work appropriately.  
 
 ### Documentation (HiD)
 
 For each of the following, put an 'X' inside the square brackets if it applies.
 - [ ] There is evidence of my initial goals and planning for this project prior to coding. 
-- [ ] There is evidence of revision in plans either prior to coding or as the project progressed.
-- [ ] My code is self-documenting (good variable and function names, good encapsulation, etc.) and/or is appropriately commented.
-- [ ] Citations are present as appropriate. 
+- [x] There is evidence of revision in plans either prior to coding or as the project progressed.
+- [x] My code is self-documenting (good variable and function names, good encapsulation, etc.) and/or is appropriately commented.
+- [x] Citations are present as appropriate. 
 
 ## Engagement
 
@@ -96,7 +94,7 @@ For each of the following, put an 'X' inside the square brackets if it applies.
 
 My final product is, to the best of my knowledge and ability:
 - [ ] completely novel
-- [ ] a fairly unique twist on something I'd seen
+- [x] a fairly unique twist on something I'd seen
 - [ ] a fancy remix
 - [ ] kind of a retread
 - [ ] superficially unique
@@ -108,7 +106,7 @@ Put an 'X' inside the square brackets next to the above option that most closely
 
 My project: 
 - [ ] strongly
-- [ ] mostly
+- [x] mostly
 - [ ] mildly
 - [ ] hardly
 
